@@ -1,0 +1,786 @@
+{
+    "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.423512, -37.664219] 
+                    },
+                    "properties": {
+                        "name": "Bacchus Marsh Traffic Upgrade",
+                        "area": "regional",
+                        "assetID": "539349"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.629183, -37.891472] 
+                },
+                    "properties": {
+                        "name": "Ballan Road Intersection Upgrade",
+                        
+                        "area": "regional",
+                        "assetID": "750755"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.35526068874, -38.1873544305449] 
+                },
+                    "properties": {
+                        "name": "Barwon Heads Road Upgrade",
+                        
+                        "area": "regional",
+                        "assetID": "539357"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.1359176635742, -37.60522222712285]
+                    },
+                    "properties": {
+                        "name": "Bridge Inn Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539365"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [147.223528, -36.805361]
+                    },
+                    "properties": {
+                        "name": "Bogong High Plains Road Landslip",
+                        
+                        "area": "regional",
+                        "assetID": "742565"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.80671405792236, -37.625346909572386]
+                    },
+                    "properties": {
+                        "name": "Bulla Bypass",
+                        
+                        "area": "suburban",
+                        "assetID": "540318"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.90416407585144, -37.734755874101076]
+                    },
+                    "properties": {
+                        "name": "Bulla Road Interchange",
+                        
+                        "area": "suburban",
+                        "assetID": "563195"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.26798963546753, -37.8796010870392]
+                    },
+                    "properties": {
+                        "name": "Burwood Highway-McMahons Road Intersection Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "704680"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.3749282919, -36.3482859164]
+                    },
+                    "properties": {
+                        "name": "Bypassing Shepparton",
+                        
+                        "area": "regional",
+                        "assetID": "539369"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.0252470374108, -37.78506710523201]
+                    },
+                    "properties": {
+                        "name": "Chandler Highway Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539373"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.03686636686325, -37.66138010029817]
+                    },
+                    "properties": {
+                        "name": "Childs Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539382"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [ 144.88875207790994, -37.70256978985944]
+                    },
+                    "properties": {
+                        "name": "CityLink Tulla Widening",
+                        
+                        "area": "suburban",
+                        "assetID": "539388"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.341073, -38.046164]
+                    },
+                    "properties": {
+                        "name": "Clyde Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "732461"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.99040246009824, -37.60474623965535]
+                    },
+                    "properties": {
+                        "name": "Craigieburn Road East Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "602787"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.89803791046143, -37.59219947193739]
+                    },
+                        "properties": {
+                        "name": "Craigieburn Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539392"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": []
+                    },
+                    "properties": {
+                        "name": "Donnybrook Road-Mitchell Street Improvement Project",
+                        
+                        "area": "suburban",
+                        "assetID": "788573"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.5752716064453, -38.18640363992542]
+                    },
+                    "properties": {
+                        "name": "Drysdale Bypass",
+                        
+                        "area": "regional",
+                        "assetID": "539396"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.75175023078918, -36.10732168876858]
+                    },
+                    "properties": {
+                        "name": "Echuca-Moama Bridge Project",
+                        
+                        "area": "regional",
+                        "assetID": "539400"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [ 145.02641916275022, -37.6369790068428]
+                    },
+                    "properties": {
+                        "name": "Epping Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539404"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.1364433765411, -37.74222223255171]
+                    },
+                    "properties": {
+                        "name": "Fitzsimons Lane Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "525097"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.4077185327, -38.1855193824]
+                    },
+                    "properties": {
+                        "name": "Geelong Ring Road Extension (Bellarine Link)",
+                        
+                        "area": "regional",
+                        "assetID": "539409"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.1810672879219, -38.20242228755799]
+                    },
+                    "properties": {
+                        "name": "Golf Links Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539413"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.136604309082, -38.011143197833924]
+                    },
+                    "properties": {
+                        "name": "Governor Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "579076"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [ 145.24150013923645, -38.10798607711247]
+                    },
+                    "properties": {
+                        "name": "Hall Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539417"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.2784878374528, -37.97937841955893]
+                    },
+                    "properties": {
+                        "name": "Hallam North and Heatherton Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539422"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.262912587463, -38.0565804662831]
+                    },
+                    "properties": {
+                        "name": "Hallam Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539427"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [ 145.49076318740842, -38.12491871404264]
+                    },
+                    "properties": {
+                        "name": "Healesville-Koo Wee Rup Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539434"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.76307719945913, -37.67772371050917]
+                    },
+                    "properties": {
+                        "name": "Improving the Calder Freeway",
+                        
+                        "area": "suburban",
+                        "assetID": "580299"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.61968898773193, -37.919318340766374]
+                    },
+                    "properties": {
+                        "name": "Ison Road Overpass",
+                        
+                        "area": "suburban",
+                        "assetID": "539440"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.15737801790237, -38.097821233295114]
+                    },
+                    "properties": {
+                        "name": "Lathams Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539444"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.8454881, -37.7429434]
+                    },
+                    "properties": {
+                        "name": "M80 Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "529074"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.8818427324295, -37.63243769246045]
+                    },
+                    "properties": {
+                        "name": "Mickleham Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539451"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.22547125767213, -37.95984840939894]
+                    },
+                    "properties": {
+                        "name": "Monash Freeway Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539455"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.1229696, -37.998290390731405]
+                    },
+                    "properties": {
+                        "name": "Mordialloc Freeway",
+                       
+                        "area": "suburban",
+                        "assetID": "539459"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.29497265815735, -38.08677676052029]
+                    },
+                    "properties": {
+                        "name": "Narre Warren-Cranbourne Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539465"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.31428456306458, -37.98846833488494]
+                    },
+                    "properties": {
+                        "name": "Narre Warren North Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539470"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.02343118190765, -37.63722114583992]
+                    },
+                    "properties": {
+                        "name": "O'Herns Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539477"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.48913441598418, -38.096936280427066]
+                    },
+                    "properties": {
+                        "name": "Pakenham Roads Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "690213"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.09575963020325, -37.638684583156966]
+                    },
+                    "properties": {
+                        "name": "Plenty Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539482"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.760049, -37.870484]
+                    },
+                    "properties": {
+                        "name": "Point Cook Rd and Central Ave Intersection Upgrade",
+                       
+                        "area": "suburban",
+                        "assetID": "742580"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.23127555847165, -38.02861800901911]
+                    },
+                    "properties": {
+                        "name": "Pound Road West Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539487"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [146.79794311523438, -38.13634560246944]
+                    },
+                    "properties": {
+                        "name": "Princes Highway East - Traralgon to Sale",
+                       
+                        "area": "regional",
+                        "assetID": "539492"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [143.6099339, -38.3350586]
+                    },
+                    "properties": {
+                        "name": "Princes Highway West - Winchelsea to Colac",
+                       
+                        "area": "regional",
+                        "assetID": "539497"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.901921749115, -37.63742080371763]
+                    },
+                    "properties": {
+                        "name": "Somerton Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "589623"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.95332622528076, -38.55288093010606]
+                    },
+                    "properties": {
+                        "name": "South Gippsland Highway",
+                        
+                        "area": "regional",
+                        "assetID": "539511"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.05626678466797, -37.93573614631329]
+                    },
+                    "properties": {
+                        "name": "South Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539516"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.97459888458252, -37.834683183003385]
+                    },
+                    "properties": {
+                        "name": "St Kilda Road Bike Lanes",
+                        
+                        "area": "suburban",
+                        "assetID": "539502"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.993022, -37.799825]
+                    },
+                    "properties": {
+                        "name": "Streamlining Hoddle Street",
+                        
+                        "area": "suburban",
+                        "assetID": "539507"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.75995779037476, -37.598634629973716]
+                    },
+                    "properties": {
+                        "name": "Sunbury Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539520"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.97702091932297, -37.823200749270285]
+                    },
+                    "properties": {
+                        "name": "Swan Street Bridge Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539525"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.332754, -38.089417]
+                    },
+                    "properties": {
+                        "name": "Thompsons Road and Berwick-Cranbourne Road Intersection Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "742846"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.276441563925, -38.0822384758537]
+                    },
+                    "properties": {
+                        "name": "Thompsons Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539530"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": []
+                    },
+                    "properties": {
+                        "name": "Watson Street Interchange",
+                        
+                        "area": "suburban",
+                        "assetID": "767449"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.63386178016663, -37.926512160403476]
+                    },
+                    "properties": {
+                        "name": "Werribee Main Road and Princes Fwy Interchange Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "601564"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": []
+                        
+                    },
+                    "properties": {
+                        "name": "Western Freeway Upgrade - Melton to Caroline Springs",
+                        
+                        "area": "regional",
+                        "assetID": "768119"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [143.0561864376068, -37.31997879848125]
+                        
+                    },
+                    "properties": {
+                        "name": "Western Highway Upgrade",
+                        
+                        "area": "regional",
+                        "assetID": "539540"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.23025631904602, -38.1233741746157]
+                    },
+                    "properties": {
+                        "name": "Western Port Highway Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539535"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [144.824820877598, -37.8313669486363]
+                    },
+                    "properties": {
+                        "name": "Western Roads Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "539544"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.125534804526, -37.6775809715591]
+                    },
+                    "properties": {
+                        "name": "Yan Yean Road Upgrade",
+                       
+                        "area": "suburban",
+                        "assetID": "563989"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [145.37553548812866, -37.792558060875045]
+                    },
+                    "properties": {
+                        "name": "York Road Upgrade",
+                        
+                        "area": "suburban",
+                        "assetID": "602905"
+                    }
+                }
+            ]
+    }
